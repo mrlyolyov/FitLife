@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitLife</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings">Настройки</string>
+    <string name="sex">sex</string>
+    <string name="change_button">Промяна</string>
+    <string name="shared_file_name">fit.life.com.PPREFERENCE</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
